@@ -1,0 +1,58 @@
+AccessKeys:
+
+Access Key--AKIA4CQ7ACO5SVC52J4I
+Secret Key--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
+
+git add .; git commit -m "changes done"; git push origin main
+
+
+vpn -ami id
+-------------
+ami-03ea534e3e9b6f519
+
+HOSTED ZONES-IDS
+-----------
+
+Hosted zone name
+devopspractice.online
+Hosted zone ID=Z02304293I0EIMA6V7PSK
+
+AWS---https://www.youtube.com/channel/UC-Ld36l0yZi9-sGTJ4FX9fA
+
+docker
+-------
+https://www.youtube.com/watch?v=cFdDii8Lb6E
+jenkins
+--------
+https://www.youtube.com/watch?v=fuxJCquXM_s&list=PLneBjIzDLEClYnrjUyz3_-KUeXGBuj5F6
+
+aws
+----
+https://www.youtube.com/watch?v=ThKukf8i35U
+
+Playbooks, Roles, Inventory
+
+Dynamic Inventory in AWS
+
+Rolling & Zero Downtime Deployment
+
+Ansible Vault & Secrets Management
+
+Performance Optimization
+
+Blue-Green Deployment Strategy
+
+Large Scale Architecture Design
+
+
+
+Load_balancing
+------------
+
+load balancing 
+listener
+target group
+launch template
+autoscaling
+autoscaling policy
+listener rule
